@@ -25,7 +25,7 @@
 	<p> 연락처 : <%=phone1%>-<%=phone2%>-<%=phone3%>
 	<p> 성별 : <%=sex%>
 	<p> 취미 : <%=hobby1%> <%=hobby2%> <%=hobby3%>
-	<o> 가입 인사 : <%=comment%>
+	<p> 가입 인사 : <%=comment%>
 	
 	
 </body>
