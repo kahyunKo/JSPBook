@@ -30,6 +30,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>WebContent/WEB-INF/lib/cos.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/cos.jar</locationURI>
+		</link>
+		<link>
 			<name>WebContent/WEB-INF/lib/jstl-1.2.jar</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/jstl-1.2.jar</locationURI>
