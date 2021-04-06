@@ -30,6 +30,16 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>WebContent/WEB-INF/commons-fileupload-1.4.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/commons-fileupload-1.4.jar</locationURI>
+		</link>
+		<link>
+			<name>WebContent/WEB-INF/commons-io-2.8.0.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/commons-io-2.8.0.jar</locationURI>
+		</link>
+		<link>
 			<name>WebContent/WEB-INF/lib/cos.jar</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/cos.jar</locationURI>
