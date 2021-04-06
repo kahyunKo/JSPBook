@@ -30,19 +30,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>WebContent/WEB-INF/lib/commons-fileupload-1.4 (1).jar</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/JSP%20fileupload/commons-fileupload-1.4%20(1).jar</locationURI>
-		</link>
-		<link>
 			<name>WebContent/WEB-INF/lib/commons-fileupload-1.4.jar</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/commons-fileupload-1.4.jar</locationURI>
-		</link>
-		<link>
-			<name>WebContent/WEB-INF/lib/commons-io-2.7.jar</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/JSP%20fileupload/commons-io-2.7.jar</locationURI>
 		</link>
 		<link>
 			<name>WebContent/WEB-INF/lib/commons-io-2.8.0.jar</name>
